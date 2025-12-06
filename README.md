@@ -52,13 +52,8 @@ A real-time cryptocurrency analytics platform built on Databricks that predicts 
   2. Automatic ML model retraining
   3. Dashboard auto-update
 
-## 📁 Project Structure
+## <img width="921" height="291" alt="image" src="https://github.com/user-attachments/assets/7dd88129-4dfb-4fe9-a435-a2eeb2a9aa05" />
 
-/crypto-analysis/
-├── crypto_analysis.ipynb    # Main pipeline
-├── ml_models.py            # ML predictions
-├── dashboard_queries.sql   # Visualization SQL
-└── automation.py          # Daily refresh
 
 ##🎯 Business Value
   1. Investors: Data-driven trading decisions
