@@ -33,8 +33,8 @@ A real-time cryptocurrency analytics platform built on Databricks that predicts 
 CREATE CATALOG madsc102_final;
 CREATE SCHEMA crypto_analysis;
 
-📈 Sample ML Prediction
-text
+## 📈 Sample ML Prediction
+
 Bitcoin Prediction:
 Current Price: $45,000
 ML Predicted: $47,250 (+5%)
@@ -51,14 +51,14 @@ Price vs prediction comparison
 
 Interactive filters by symbol/price/confidence
 
-🔄 Automation
+##🔄 Automation
 Daily data refresh at 9 AM UTC
 
 Automatic ML model retraining
 
 Dashboard auto-update
 
-📁 Project Structure
+## 📁 Project Structure
 text
 /crypto-analysis/
 ├── crypto_analysis.ipynb    # Main pipeline
@@ -74,7 +74,7 @@ Analysts: Pattern recognition and forecasting
 
 Students: Hands-on big data & ML experience
 
-💡 Why It Matters
+## 💡 Why It Matters
 Democratizes Analytics - Makes complex market data accessible
 
 Reduces Risk - ML-backed insights vs emotional trading
@@ -83,7 +83,7 @@ Real-time - Live data for timely decisions
 
 Scalable - Handles 100+ cryptocurrencies efficiently
 
-📞 Get Started
+## 📞 Get Started
 Clone this repository
 
 Import notebooks to Databricks
