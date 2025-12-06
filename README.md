@@ -29,28 +29,28 @@ A real-time cryptocurrency analytics platform built on Databricks that predicts 
 
 
 ## Setup catalog
-CREATE CATALOG madsc102_final;
-CREATE SCHEMA crypto_analysis;
+- CREATE CATALOG madsc102_final;
+- CREATE SCHEMA crypto_analysis;
 
 ## 📈 Sample ML Prediction
 
-Bitcoin Prediction:
-Current Price: $45,000
-ML Predicted: $47,250 (+5%)
-Signal: BUY 🟢
-Confidence: High
+**Bitcoin Prediction:**
+> Current Price: $45,000
+> ML Predicted: $47,250 (+5%)
+> Signal: BUY 🟢
+> Confidence: High
 
 ##📱 Dashboard Includes
-Market overview metrics
-Top gainers/losers
-ML trading signals distribution
-Price vs prediction comparison
-Interactive filters by symbol/price/confidence
+  1. Market overview metrics
+  2. Top gainers/losers
+  3. ML trading signals distribution
+  4. Price vs prediction comparison
+  5. Interactive filters by symbol/price/confidence
 
 ##🔄 Automation
-Daily data refresh at 9 AM UTC
-Automatic ML model retraining
-Dashboard auto-update
+  1. Daily data refresh at 9 AM UTC
+  2. Automatic ML model retraining
+  3. Dashboard auto-update
 
 ## 📁 Project Structure
 
@@ -61,20 +61,20 @@ Dashboard auto-update
 └── automation.py          # Daily refresh
 
 ##🎯 Business Value
-Investors: Data-driven trading decisions
-Traders: Real-time market insights
-Analysts: Pattern recognition and forecasting
-Students: Hands-on big data & ML experience
+  1. Investors: Data-driven trading decisions
+  2. Traders: Real-time market insights
+  3. Analysts: Pattern recognition and forecasting
+  4. Students: Hands-on big data & ML experience
 
 ## 💡 Why It Matters
-Democratizes Analytics - Makes complex market data accessible
-Reduces Risk - ML-backed insights vs emotional trading
-Real-time - Live data for timely decisions
-Scalable - Handles 100+ cryptocurrencies efficiently
+  1. Democratizes Analytics - Makes complex market data accessible
+  2. Reduces Risk - ML-backed insights vs emotional trading
+  3. Real-time - Live data for timely decisions
+  4. Scalable - Handles 100+ cryptocurrencies efficiently
 
 ## 📞 Get Started
-Clone this repository
-Import notebooks to Databricks
-Run the main analysis
-Build your dashboard
+  1. Clone this repository
+  2. Import notebooks to Databricks
+  3. Run the main analysis
+  4. Build your dashboard
 
