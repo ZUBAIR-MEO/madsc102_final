@@ -35,10 +35,10 @@ A real-time cryptocurrency analytics platform built on Databricks that predicts 
 ## 📈 Sample ML Prediction
 
 **Bitcoin Prediction:**
-> Current Price: $45,000
-> ML Predicted: $47,250 (+5%)
-> Signal: BUY 🟢
-> Confidence: High
+- Current Price: $45,000
+- ML Predicted: $47,250 (+5%)
+- Signal: BUY 🟢
+- Confidence: High
 
 ##📱 Dashboard Includes
   1. Market overview metrics
