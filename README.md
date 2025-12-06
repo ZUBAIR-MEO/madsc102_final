@@ -27,9 +27,8 @@ A real-time cryptocurrency analytics platform built on Databricks that predicts 
 - **Interactive Charts** - Real-time visualizations
 - **Market Insights** - Trend analysis and patterns
 
-## 🚀 Quick Start
-```python
-# 1. Setup catalog
+
+## Setup catalog
 CREATE CATALOG madsc102_final;
 CREATE SCHEMA crypto_analysis;
 
@@ -40,57 +39,42 @@ Current Price: $45,000
 ML Predicted: $47,250 (+5%)
 Signal: BUY 🟢
 Confidence: High
-📱 Dashboard Includes
+
+##📱 Dashboard Includes
 Market overview metrics
-
 Top gainers/losers
-
 ML trading signals distribution
-
 Price vs prediction comparison
-
 Interactive filters by symbol/price/confidence
 
 ##🔄 Automation
 Daily data refresh at 9 AM UTC
-
 Automatic ML model retraining
-
 Dashboard auto-update
 
 ## 📁 Project Structure
-text
+
 /crypto-analysis/
 ├── crypto_analysis.ipynb    # Main pipeline
 ├── ml_models.py            # ML predictions
 ├── dashboard_queries.sql   # Visualization SQL
 └── automation.py          # Daily refresh
-🎯 Business Value
+
+##🎯 Business Value
 Investors: Data-driven trading decisions
-
 Traders: Real-time market insights
-
 Analysts: Pattern recognition and forecasting
-
 Students: Hands-on big data & ML experience
 
 ## 💡 Why It Matters
 Democratizes Analytics - Makes complex market data accessible
-
 Reduces Risk - ML-backed insights vs emotional trading
-
 Real-time - Live data for timely decisions
-
 Scalable - Handles 100+ cryptocurrencies efficiently
 
 ## 📞 Get Started
 Clone this repository
-
 Import notebooks to Databricks
-
 Run the main analysis
-
 Build your dashboard
 
-# 2. Run main notebook (crypto_analysis.ipynb)
-# 3. Create dashboard in Databricks SQL
