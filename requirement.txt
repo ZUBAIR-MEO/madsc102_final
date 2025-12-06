@@ -1,0 +1,9 @@
+streamlit
+pandas==2.2.0
+numpy
+requests==2.31.0
+plotly
+python-dotenv
+matplotlib
+altair
+delta-spark==2.1.0
