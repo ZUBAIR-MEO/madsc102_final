@@ -46,6 +46,7 @@ A real-time cryptocurrency analytics platform built on Databricks that predicts 
   3. ML trading signals distribution
   4. Price vs prediction comparison
   5. Interactive filters by symbol/price/confidence
+https://dbc-d193e922-5e68.cloud.databricks.com/dashboardsv3/01f0d2b80db71f94b13a6ffd404616c3/published?o=2785422380815434
 
 ##🔄 Automation
   1. Daily data refresh at 9 AM UTC
